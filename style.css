@@ -21,6 +21,10 @@ header {
 .catalogos img{
     width: 3%;
 }
+.catalogos a{
+    text-decoration: none;
+    color: wheat;
+}
 
 main {
     padding: 20px;
