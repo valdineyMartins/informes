@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // Lista de informes pré-definidos
     const informes = [
         { titulo: "📊 Comparativo e atualização de dados e vendas",
-             descricao: "Consiste em observar e comparar os dados de vendas por período, a fim de tomar decisões estratégicas e implementar ações com base nas informações obtidas.", link:"https://call.whatsapp.com/video/v4ei5M4EjbgraLIEnmRPAT"},
+             descricao: "Consiste em observar e comparar os dados de vendas por período, a fim de tomar decisões estratégicas e implementar ações com base nas informações obtidas.", link:"https://docs.google.com/spreadsheets/d/1GdZFQOlhC2s-HU5T49Milz3OoMOsiAonRXPToe6qrQ0/edit?usp=sharing"},
         { titulo: "🎓 Treinamento de produtos estratégias de vendas",
              descricao: "Orientar vendedores e gerentes sobre produtos.", link:"https://drive.google.com/file/d/1GUGYjOeu5YKUdAfWhYYMZRDqF_MKkyiK/view?usp=sharing"},
         { titulo: "💰Campanha comisão em dobro - AkzoNobel(Coral) 01/04/2026 a 30/06/2026", 
