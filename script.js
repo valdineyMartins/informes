@@ -14,13 +14,22 @@ document.addEventListener("DOMContentLoaded", () => {
         { titulo: "💡 Introdução e divugação de produtos", 
             descricao: "Dar foco á produtos recem chegados ao estoque.", link:"https://drive.google.com/file/d/1m0p7XW-AJTktHZCTJ3yZWRI3rbO2kFdA/view?usp=sharing"},
         { titulo: "🖥️ Atualização do sitema tintométrico",
-             descricao: "As atualizaçõs são feitas conforme os lançamentos de versõesdisponibilizadas pela Coral(Dinaxis). Apos atualização das dosadoras é feita a atualização do tintométrico no ADM.", link:"https://shotcolor.com.br/"},
+             descricao: "As atualizaçõs são feitas conforme os lançamentos de versõesdisponibilizadas pela Coral(Dinaxis). <br>Apos atualização das dosadoras é feita a atualização do tintométrico no ADM.", link:"https://shotcolor.com.br/"},
         { titulo: "🎨 Conferencia de colorantes", 
             descricao: "Conferências devem ser realizadas semanalmente.", link:"https://docs.google.com/spreadsheets/d/1HgA9Bw24EpIcqbb0lmuU0suosy2lMGs64FzYKYtnNjg/edit?usp=sharing"},  
         { titulo: "🛠️ Manutenção de ferramentas digitais",
-             descricao: "As ferramentas digitais têm como objetivo oferecer ao setor de vendas acesso rápido e prático aos catálogos, além de facilitar o direcionamento durante o processo de venda.s", link:"https://valdineymartins.github.io/catalogos-e-manuais/index.html"},  
+             descricao: "As ferramentas digitais têm como objetivo oferecer ao setor de vendas acesso rápido e prático aos catálogos, além de facilitar o direcionamento durante o processo de venda.s"},  
         { titulo: "🧪 Solicitação e personalização de formulas",
-             descricao: "A solicitação de formas deve estar de acordo com o pedido da fórmula ao fabricante. A personalização pode ser realizada de duas maneiras: Adaptação de uma fórmula já existente, com alterações apenas nos nomes ou detalhes específicos. Criação de uma nova fórmula não oficial, desenvolvida a partir de necessidades exclusivas.", link:"https://call.whatsapp.com/video/v4ei5M4EjbgraLIEnmRPAT"},
+             descricao: "A solicitação de formas deve estar de acordo com o pedido da fórmula ao fabricante.<br>A personalização pode ser realizada de duas maneiras: Adaptação de uma fórmula já existente, com alterações apenas nos nomes ou detalhes específicos. Criação de uma nova fórmula não oficial, desenvolvida a partir de necessidades exclusivas.", link:"https://call.whatsapp.com/video/v4ei5M4EjbgraLIEnmRPAT"},
+        { titulo: "📌 Gestão de grupo(Tintas - Operaciona)",
+             descricao: "Fornecer instruções e acompanhar a manutenção de doadoras. <br>Instruir sobre movimentações de produtos."},
+        { titulo: "📌 Gestão de grupos(Amigo pintor)",
+             descricao: "Postar ofertas. <br>Responder questionamentos. <br>Divugar novidaes"},
+        { titulo: "🌟Definir layaut de gondula",
+             descricao: "Definir layaut. <br> Orientar na execuçãio e supervisionar a manutenção."},
+        
+             
+        
         
     ];
 
