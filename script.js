@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", () => {
         { titulo: "🤝 Sugestões ao setor de comoras", 
             descricao: "Sugerir introdução e reposição de trpodutos."},
         { titulo: "🖥️ Atualização do sitema tintométrico",
-             descricao: "As atualizaçõs são feitas conforme os lançamentos de versõesdisponibilizadas pela Coral(Dinaxis). <br>Apos atualização das dosadoras é feita a atualização do tintométrico no ADM.", link:"https://shotcolor.com.br/"},
+             descricao: "As atualizaçõs são feitas conforme os lançamentos de versõesdisponibilizadas pela Coral(Dinaxis). <br>Apos atualização das dosadoras é feita a atualização do tintométrico no ADM.", link:"https://drive.google.com/file/d/1Kf72kBMHIpQPKT0ynr_EFRtQ4g__17wc/view?usp=drive_link"},
         { titulo: "🎨 Conferencia de colorantes", 
             descricao: "Conferências devem ser realizadas semanalmente.", link:"https://docs.google.com/spreadsheets/d/1HgA9Bw24EpIcqbb0lmuU0suosy2lMGs64FzYKYtnNjg/edit?usp=sharing"},  
         { titulo: "🛠️ Manutenção de ferramentas digitais",
