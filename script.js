@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
         { titulo: "🎨 Conferencia de colorantes", 
             descricao: "Conferências devem ser realizadas semanalmente.", link:"https://docs.google.com/spreadsheets/d/1HgA9Bw24EpIcqbb0lmuU0suosy2lMGs64FzYKYtnNjg/edit?usp=sharing"},  
         { titulo: "🛠️ Manutenção de ferramentas digitais",
-             descricao: "As ferramentas digitais têm como objetivo oferecer ao setor de vendas acesso rápido e prático aos catálogos, além de facilitar o direcionamento durante o processo de venda.s"},  
+             descricao: "As ferramentas digitais têm como objetivo oferecer ao setor de vendas acesso rápido e prático aos catálogos, além de facilitar o direcionamento durante o processo de vendas.", link:"https://valdineymartins.github.io/catalogos-e-manuais/index.html"},  
         { titulo: "🧪 Solicitação e personalização de formulas",
              descricao: "A solicitação de formas deve estar de acordo com o pedido da fórmula ao fabricante.<br>A personalização pode ser realizada de duas maneiras: Adaptação de uma fórmula já existente, com alterações apenas nos nomes ou detalhes específicos. Criação de uma nova fórmula não oficial, desenvolvida a partir de necessidades exclusivas.", link:"https://call.whatsapp.com/video/v4ei5M4EjbgraLIEnmRPAT"},
         { titulo: "📌 Gestão de grupo(Tintas - Operaciona)",
