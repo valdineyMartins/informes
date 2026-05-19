@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
         { titulo: "💡 Introdução e divugação de produtos", 
             descricao: "Dar foco á produtos recem chegados ao estoque.", link:"https://drive.google.com/file/d/1m0p7XW-AJTktHZCTJ3yZWRI3rbO2kFdA/view?usp=sharing"},
         { titulo: "🤝 Sugestões ao setor de comoras", 
-            descricao: "Sugerir introdução e reposição de trpodutos."},
+            descricao: "Sugerir introdução e reposição de podutos."},
         { titulo: "🖥️ Atualização do sitema tintométrico",
              descricao: "As atualizaçõs são feitas conforme os lançamentos de versõesdisponibilizadas pela Coral(Dinaxis). <br>Apos atualização das dosadoras é feita a atualização do tintométrico no ADM.", link:"https://drive.google.com/file/d/1Kf72kBMHIpQPKT0ynr_EFRtQ4g__17wc/view?usp=drive_link"},
         { titulo: "🎨 Conferencia de colorantes", 
@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", () => {
         { titulo: "📌 Gestão de grupo(Tintas - Operaciona)",
              descricao: "Fornecer instruções e acompanhar a manutenção de doadoras. <br>Instruir sobre movimentações de produtos."},
         { titulo: "📌 Gestão de grupos(Amigo pintor)",
-             descricao: "Postar ofertas. <br>Responder questionamentos. <br>Divugar novidaes"},
+             descricao: "Postar ofertas. <br>Responder questionamentos. <br>Divugar novidaes."},
         { titulo: "🌟Definir layaut de gondula",
              descricao: "Definir layaut. <br> Orientar na execuçãio e supervisionar a manutenção."},
         
