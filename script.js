@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
              descricao: "Acompanhamento de validade e ações para para dar foco na venda dos itens presentes na lista.", link:"https://docs.google.com/spreadsheets/d/1xM8XrGBQ-9TThbljdo6eVLXjAGVJMXSovUC5qmEGPag/edit?usp=sharing"},
         { titulo: "💡 Introdução e divugação de produtos", 
             descricao: "Dar foco á produtos recem chegados ao estoque.", link:"https://drive.google.com/file/d/1m0p7XW-AJTktHZCTJ3yZWRI3rbO2kFdA/view?usp=sharing"},
-        { titulo: "🤝 Sugestões ao setor de comoras", 
+        { titulo: "🤝 Sugestões ao setor de compras", 
             descricao: "Sugerir introdução e reposição de podutos."},
         { titulo: "🖥️ Atualização do sitema tintométrico",
              descricao: "As atualizaçõs são feitas conforme os lançamentos de versõesdisponibilizadas pela Coral(Dinaxis). <br>Apos atualização das dosadoras é feita a atualização do tintométrico no ADM.", link:"https://drive.google.com/file/d/1Kf72kBMHIpQPKT0ynr_EFRtQ4g__17wc/view?usp=drive_link"},
