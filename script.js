@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", () => {
         { titulo: "📌 Gestão de grupos(Amigo pintor)",
              descricao: "Postar ofertas. <br>Responder questionamentos. <br>Divugar novidaes."},
         { titulo: "🌟Definir layaut de gondula",
-             descricao: "Definir layaut. <br> Orientar na execuçãio e supervisionar a manutenção."},
+             descricao: "Definir layaut. <br> Orientar na execução e supervisionar a manutenção."},
         
              
         
