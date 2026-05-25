@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
         { titulo: "📅 Tratativas de vencimento",
              descricao: "Acompanhamento de validade e ações para para dar foco na venda dos itens presentes na lista.", link:"https://docs.google.com/spreadsheets/d/1xM8XrGBQ-9TThbljdo6eVLXjAGVJMXSovUC5qmEGPag/edit?usp=sharing"},
         { titulo: "💡 Introdução e divugação de produtos", 
-            descricao: "Dar foco á produtos recem chegados ao estoque.", link:"https://drive.google.com/file/d/1m0p7XW-AJTktHZCTJ3yZWRI3rbO2kFdA/view?usp=sharing"},
+            descricao: "Dar foco á produtos recem chegados ao estoque.", link:"https://docs.google.com/presentation/d/1R4KUsaH7RzYwOXoGxvnhjRZ77GuIbEdSyCsRmHc0DFI/edit?slide=id.p#slide=id.p"},
         { titulo: "🤝 Sugestões ao setor de compras", 
             descricao: "Sugerir introdução e reposição de podutos."},
         { titulo: "🖥️ Atualização do sitema tintométrico",
